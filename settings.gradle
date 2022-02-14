@@ -1,0 +1,3 @@
+include ':als'
+include ':app'
+rootProject.name = "TreinarApp"
