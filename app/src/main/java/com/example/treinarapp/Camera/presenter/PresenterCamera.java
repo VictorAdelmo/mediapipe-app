@@ -23,6 +23,7 @@ public class PresenterCamera implements InterfaceCamera.presenter {
     private InterfaceCamera.view view;
     private Context context;
 
+
     public PresenterCamera(Context context,InterfaceCamera.view view) {
         this.context = context;
         this.view = view;
